@@ -1,4 +1,4 @@
-node ('windows-node'){
+node ('WINDOWS-NODE'){
 	stage 'Checkout'
 		checkout scm
 
